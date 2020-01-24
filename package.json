@@ -2,10 +2,14 @@
   "name": "presentation_101",
   "version": "0.1.0",
   "private": true,
+  "proxy": "http://192.168.2.32:8000",
   "dependencies": {
     "react": "^16.12.0",
+    "react-bootstrap": "^1.0.0-beta.16",
     "react-dom": "^16.12.0",
-    "react-scripts": "3.2.0"
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.2.0",
+    "react-toastify": "^5.4.1"
   },
   "scripts": {
     "start": "react-scripts start",
